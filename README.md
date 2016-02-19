@@ -11,7 +11,7 @@ This repository provides **datasets** to some other projects which use them main
 - [It seems](https://github.com/square/crossfilter/blob/gh-pages/index.html#L209) that GitHub Pages only [gzip](https://en.wikipedia.org/wiki/Gzip#Derivatives_and_other_uses)'s JSON files which is specially useful for large datasets.
 
 ## Used in
-- [Crossfilter-TestDrive](https://github.com/dbautistav/Crossfilter-TestDrive)
-- [workers](https://github.com/dbautistav/workers) (WIP)
+- [Crossfilter test-drive](https://github.com/dbautistav/Crossfilter-TestDrive)
+- [Workers test-drive](https://github.com/dbautistav/workers) (WIP)
 
 (this list is not exhaustive)
