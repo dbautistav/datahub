@@ -1,0 +1,25 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/dbautistav/datahub/gh-pages/",
+  "datasets": [
+    {
+      "name": "Ecobici",
+      "description": "Ecobici (CDMX) usage data",
+      "baseUri": "ecobici/",
+      "resources": [
+        {
+          "id": 201511,
+          "filename": "11.json",
+          "description": "November 2015 data",
+          "path": "2015/"
+        },
+        {
+          "id": 201601,
+          "filename": "01.json",
+          "description": "January 2016 data",
+          "path": "2016/"
+        }
+      ],
+      "source": "https://www.ecobici.df.gob.mx/es/informacion-del-servicio/open-data"
+    }
+  ]
+}
