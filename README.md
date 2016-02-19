@@ -1,8 +1,8 @@
 # Datahub
 This repository provides **datasets** to some other projects which use them mainly as input in prototyping and test-driving tools [(see listing)](https://github.com/dbautistav/datahub#used-in).
 
-## Catalog
-- [Datasets catalog.](https://github.com/dbautistav/datahub/catalog.json)
+## Datasets
+- [View catalog.](https://github.com/dbautistav/datahub/blob/gh-pages/catalog.json)
 
 ## Sources
 - [Ecobici (CDMX) usage data.](https://www.ecobici.df.gob.mx/es/informacion-del-servicio/open-data)
