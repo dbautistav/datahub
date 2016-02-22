@@ -13,6 +13,12 @@
           "path": "2015/"
         },
         {
+          "id": 201512,
+          "filename": "12.json",
+          "description": "December 2015 data",
+          "path": "2015/"
+        },
+        {
           "id": 201601,
           "filename": "01.json",
           "description": "January 2016 data",
